@@ -1,4 +1,4 @@
-#Домашнее задание к занятию "08.01 Введение в Ansible"
+# Домашнее задание к занятию "08.01 Введение в Ansible"
 
 ## Задача 1
 `ansible-playbook -i inventory/test.yml site.yml`
